@@ -1,0 +1,8 @@
+com\webhooksql\service\SqlSolverService.class
+com\webhooksql\config\AppConfig.class
+com\webhooksql\service\WebhookService.class
+com\webhooksql\WebhookSqlApplication.class
+com\webhooksql\model\WebhookResponse.class
+com\webhooksql\model\WebhookRequest.class
+com\webhooksql\model\SolutionRequest.class
+com\webhooksql\runner\WebhookApplicationRunner.class
